@@ -1,0 +1,15 @@
+BODY {
+	FONT-SIZE: 12px; CURSOR: default; COLOR: #aaaaaa; FONT-FAMILY: arial
+}
+TD {
+	FONT-SIZE: 12px; CURSOR: default; FONT-FAMILY: arial
+}
+A {
+	FONT-SIZE: 16px; COLOR: #0099DD; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0099DD; TEXT-DECORATION: underline
+}
+INPUT {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; BORDER-LEFT: #cccccc 1px solid; COLOR: #999999; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: arial; HEIGHT: 21px; BACKGROUND-COLOR: #f9f9f9
+}
